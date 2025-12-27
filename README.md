@@ -1,5 +1,5 @@
 # PhishDetect  🛡️  
-An intelligent message and URL security analyzer that detects phishing risks using rule-based analysis and explainable machine learning.
+<!-- An intelligent message and URL security analyzer that detects phishing risks using rule-based analysis and explainable machine learning. -->
 
 PhishDetect is a full-stack security application designed to analyze suspicious messages and URLs (such as those received via email, SMS, or messaging platforms) and assess their phishing risk.
 
